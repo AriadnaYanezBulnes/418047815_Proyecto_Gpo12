@@ -101,7 +101,8 @@ int main( )
     // Load models CARGAR MODELOS
     //NUEVAS LINEAS:
    
-    Model dino((char*)"Models/dino/dino.obj"); 
+   // Model dino((char*)"Models/dino/dino.obj"); 
+    Model shelf((char*)"Models/lab/shelf.obj");
     
 
     glm::mat4 projection = glm::perspective( camera.GetZoom( ), ( float )SCREEN_WIDTH/( float )SCREEN_HEIGHT, 0.1f, 100.0f );
@@ -136,7 +137,7 @@ int main( )
         model = glm::rotate(model, glm::radians(rot), glm::vec3(0.0f, 1.0f, 0.0f));
         model = glm::scale(model, glm::vec3(0.1f, 0.1f, 0.1f));
         glUniformMatrix4fv(glGetUniformLocation(shader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
-        dino.Draw(shader);
+        shelf.Draw(shader);
        
 
 
