@@ -1,9 +1,12 @@
 ﻿  Main.cpp
-C:\Users\Lenovo\Desktop\repositorio\418047815_Proyecto_Gpo12\ProyectoFinal\ProyectoFinal\Main.cpp(116,30): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Lenovo\Desktop\repositorio\418047815_Proyecto_Gpo12\ProyectoFinal\ProyectoFinal\Main.cpp(217,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Lenovo\Desktop\repositorio\418047815_Proyecto_Gpo12\ProyectoFinal\ProyectoFinal\Main.cpp(218,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Lenovo\Desktop\repositorio\418047815_Proyecto_Gpo12\ProyectoFinal\ProyectoFinal\Main.cpp(222,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Lenovo\Desktop\repositorio\418047815_Proyecto_Gpo12\ProyectoFinal\ProyectoFinal\Main.cpp(223,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Lenovo\Desktop\repositorio\418047815_Proyecto_Gpo12\ProyectoFinal\ProyectoFinal\Main.cpp(225,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Lenovo\Desktop\repositorio\418047815_Proyecto_Gpo12\ProyectoFinal\ProyectoFinal\Main.cpp(226,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\repositorio\418047815_Proyecto_Gpo12\ProyectoFinal\ProyectoFinal\Main.cpp(119,30): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\repositorio\418047815_Proyecto_Gpo12\ProyectoFinal\ProyectoFinal\Main.cpp(223,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\repositorio\418047815_Proyecto_Gpo12\ProyectoFinal\ProyectoFinal\Main.cpp(224,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\repositorio\418047815_Proyecto_Gpo12\ProyectoFinal\ProyectoFinal\Main.cpp(228,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\repositorio\418047815_Proyecto_Gpo12\ProyectoFinal\ProyectoFinal\Main.cpp(229,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\repositorio\418047815_Proyecto_Gpo12\ProyectoFinal\ProyectoFinal\Main.cpp(231,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\repositorio\418047815_Proyecto_Gpo12\ProyectoFinal\ProyectoFinal\Main.cpp(232,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'C:\Users\Lenovo\Desktop\repositorio\418047815_Proyecto_Gpo12\ProyectoFinal\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_helper.obj)' o en 'C:\Users\Lenovo\Desktop\repositorio\418047815_Proyecto_Gpo12\ProyectoFinal\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'C:\Users\Lenovo\Desktop\repositorio\418047815_Proyecto_Gpo12\ProyectoFinal\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
   ProyectoFinal.vcxproj -> C:\Users\Lenovo\Desktop\repositorio\418047815_Proyecto_Gpo12\ProyectoFinal\Debug\ProyectoFinal.exe
